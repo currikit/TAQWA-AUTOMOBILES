@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<rect width="600" height="600" fill="#FAF7F0"/>
+<rect y="0" width="600" height="300" fill="#E9D8A6"/>
+<rect y="70" width="600" height="56" fill="#1F3A8A"/>
+<text x="300" y="107" text-anchor="middle" font-family="Zilla Slab,Georgia,serif" font-weight="700" font-size="30" fill="#FAF7F0" letter-spacing="2">TAQWA AUTOMOBILES</text>
+<rect y="300" width="600" height="300" fill="#DCD3C2"/>
+<g stroke="#C9BFAA" stroke-width="2"><line x1="0" y1="300" x2="-180" y2="600"/><line x1="100" y1="300" x2="-20" y2="600"/><line x1="200" y1="300" x2="140" y2="600"/><line x1="300" y1="300" x2="300" y2="600"/><line x1="400" y1="300" x2="460" y2="600"/><line x1="500" y1="300" x2="620" y2="600"/><line x1="600" y1="300" x2="780" y2="600"/></g>
+<g opacity=".9"><rect x="114" y="118" width="7" height="12" fill="#C1121F" transform="rotate(0 114 118)"/><rect x="211" y="171" width="7" height="12" fill="#F6C700" transform="rotate(41 211 171)"/><rect x="308" y="74" width="7" height="12" fill="#1F3A8A" transform="rotate(82 308 74)"/><rect x="405" y="127" width="7" height="12" fill="#287447" transform="rotate(33 405 127)"/><rect x="502" y="180" width="7" height="12" fill="#C1121F" transform="rotate(74 502 180)"/><rect x="79" y="83" width="7" height="12" fill="#F6C700" transform="rotate(25 79 83)"/><rect x="176" y="136" width="7" height="12" fill="#1F3A8A" transform="rotate(66 176 136)"/><rect x="273" y="189" width="7" height="12" fill="#287447" transform="rotate(17 273 189)"/><rect x="370" y="92" width="7" height="12" fill="#C1121F" transform="rotate(58 370 92)"/><rect x="467" y="145" width="7" height="12" fill="#F6C700" transform="rotate(9 467 145)"/><rect x="44" y="198" width="7" height="12" fill="#1F3A8A" transform="rotate(50 44 198)"/><rect x="141" y="101" width="7" height="12" fill="#287447" transform="rotate(1 141 101)"/><rect x="238" y="154" width="7" height="12" fill="#C1121F" transform="rotate(42 238 154)"/><rect x="335" y="207" width="7" height="12" fill="#F6C700" transform="rotate(83 335 207)"/></g>
+<g transform="translate(30.0 250) scale(2.250)"><ellipse cx="120" cy="86" rx="114" ry="6" fill="#000" opacity=".28"/>
+<path d="M10 72 Q10 56 20 52 L46 46 L64 23 Q69 18 79 18 L184 18 Q197 18 203 29 L211 48 L223 52 Q231 56 231 65 L231 72 Z" fill="#F4F4F2" stroke="#2B2B2B" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M74 25 L182 25 Q191 25 195 32 L202 46 L58 46 Z" fill="#3A4A5E" stroke="#2B2B2B" stroke-width="1"/>
+<path d="M74 25 L182 25 Q191 25 195 32 L202 46 L58 46 Z" fill="#fff" opacity=".18" transform="translate(4 2) scale(.55 1)"/>
+<path d="M110 22 L110 70" stroke="#2B2B2B" stroke-width=".9" opacity=".55"/>
+<rect x="115" y="52" width="9" height="2.4" rx="1.2" fill="#555"/>
+<path d="M152 22 L152 70" stroke="#2B2B2B" stroke-width=".9" opacity=".55"/>
+<rect x="157" y="52" width="9" height="2.4" rx="1.2" fill="#555"/>
+<path d="M76 47 L174 47" stroke="#2B2B2B" stroke-width="1"/>
+<rect x="221" y="54" width="9" height="5" rx="2" fill="#FFE7A0" stroke="#2B2B2B" stroke-width=".8"/>
+<rect x="11" y="53" width="6" height="7" rx="2" fill="#C1121F"/>
+<rect x="226" y="62" width="6" height="5" fill="#F6C700" stroke="#222" stroke-width=".6"/>
+<circle cx="58" cy="72" r="15" fill="#2B2B2B"/><circle cx="58" cy="72" r="13.5" fill="#1C1C1C"/><circle cx="58" cy="72" r="8" fill="#C9CCD1"/><circle cx="58" cy="72" r="2.6" fill="#555"/>
+<line x1="58" y1="72" x2="65.0" y2="72.0" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="58" y1="72" x2="60.2" y2="78.7" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="58" y1="72" x2="52.3" y2="76.1" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="58" y1="72" x2="52.3" y2="67.9" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="58" y1="72" x2="60.2" y2="65.3" stroke="#8E929A" stroke-width="1.6"/>
+<circle cx="192" cy="72" r="15" fill="#2B2B2B"/><circle cx="192" cy="72" r="13.5" fill="#1C1C1C"/><circle cx="192" cy="72" r="8" fill="#C9CCD1"/><circle cx="192" cy="72" r="2.6" fill="#555"/>
+<line x1="192" y1="72" x2="199.0" y2="72.0" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="192" y1="72" x2="194.2" y2="78.7" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="192" y1="72" x2="186.3" y2="76.1" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="192" y1="72" x2="186.3" y2="67.9" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="192" y1="72" x2="194.2" y2="65.3" stroke="#8E929A" stroke-width="1.6"/>
+<circle cx="158.0" cy="50.0" r="3.1" fill="#F6C700"/>
+<circle cx="161.2" cy="51.7" r="3.1" fill="#F28C28"/>
+<circle cx="164.4" cy="53.3" r="3.1" fill="#F6C700"/>
+<circle cx="167.6" cy="54.9" r="3.1" fill="#F28C28"/>
+<circle cx="170.8" cy="56.4" r="3.1" fill="#F6C700"/>
+<circle cx="174.0" cy="57.8" r="3.1" fill="#F28C28"/>
+<circle cx="177.1" cy="59.0" r="3.1" fill="#F6C700"/>
+<circle cx="180.3" cy="60.0" r="3.1" fill="#F28C28"/>
+<circle cx="183.5" cy="60.8" r="3.1" fill="#F6C700"/>
+<circle cx="186.7" cy="61.5" r="3.1" fill="#F28C28"/>
+<circle cx="189.9" cy="61.9" r="3.1" fill="#F6C700"/>
+<circle cx="193.1" cy="62.1" r="3.1" fill="#F28C28"/>
+<circle cx="196.3" cy="62.0" r="3.1" fill="#F6C700"/>
+<circle cx="199.5" cy="61.8" r="3.1" fill="#F28C28"/>
+<circle cx="202.7" cy="61.3" r="3.1" fill="#F6C700"/>
+<circle cx="205.9" cy="60.7" r="3.1" fill="#F28C28"/>
+<circle cx="209.0" cy="59.8" r="3.1" fill="#F6C700"/>
+<circle cx="212.2" cy="58.9" r="3.1" fill="#F28C28"/>
+<circle cx="215.4" cy="57.8" r="3.1" fill="#F6C700"/>
+<circle cx="218.6" cy="56.6" r="3.1" fill="#F28C28"/>
+<circle cx="221.8" cy="55.3" r="3.1" fill="#F6C700"/>
+<circle cx="225.0" cy="54.0" r="3.1" fill="#F28C28"/>
+<circle cx="191" cy="64" r="5" fill="#C1121F"/><path d="M191 66 l-6 10 M191 66 l6 10" stroke="#C1121F" stroke-width="2.4"/></g>
+
+</svg>

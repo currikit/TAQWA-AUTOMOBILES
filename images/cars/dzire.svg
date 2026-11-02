@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FAF7F0"/><stop offset="1" stop-color="#E9D8A6"/></linearGradient></defs>
+<rect width="640" height="400" fill="url(#sky)"/>
+<g opacity=".35" fill="#9B7042"><rect x="40" y="150" width="70" height="120"/><rect x="118" y="120" width="54" height="150"/><rect x="470" y="135" width="60" height="135"/><rect x="538" y="160" width="70" height="110"/></g>
+<rect y="300" width="640" height="100" fill="#4A4A4A"/><rect y="300" width="640" height="6" fill="#D5C19A"/>
+<g fill="#E9D8A6"><rect x="10" y="352" width="44" height="6"/><rect x="90" y="352" width="44" height="6"/><rect x="170" y="352" width="44" height="6"/><rect x="250" y="352" width="44" height="6"/><rect x="330" y="352" width="44" height="6"/><rect x="410" y="352" width="44" height="6"/><rect x="490" y="352" width="44" height="6"/><rect x="570" y="352" width="44" height="6"/></g>
+<g transform="translate(60.0 110) scale(2.167)"><ellipse cx="120" cy="86" rx="114" ry="6" fill="#000" opacity=".28"/>
+<path d="M8 72 Q8 58 18 54 L52 48 L76 28 Q83 23 94 23 L140 23 Q151 23 159 32 L177 48 L214 52 Q227 55 228 65 L228 72 Z" fill="#F6F6F4" stroke="#2B2B2B" stroke-width="1.4" stroke-linejoin="round"/>
+<path d="M84 30 L139 30 Q147 30 152 36 L163 47 L68 47 Z" fill="#3A4A5E" stroke="#2B2B2B" stroke-width="1"/>
+<path d="M84 30 L139 30 Q147 30 152 36 L163 47 L68 47 Z" fill="#fff" opacity=".18" transform="translate(4 2) scale(.55 1)"/>
+<path d="M116 22 L116 70" stroke="#2B2B2B" stroke-width=".9" opacity=".55"/>
+<rect x="121" y="52" width="9" height="2.4" rx="1.2" fill="#555"/>
+<path d="M74 47 L170 47" stroke="#2B2B2B" stroke-width="1"/>
+<rect x="218" y="54" width="9" height="5" rx="2" fill="#FFE7A0" stroke="#2B2B2B" stroke-width=".8"/>
+<rect x="9" y="53" width="6" height="7" rx="2" fill="#C1121F"/>
+<rect x="223" y="62" width="6" height="5" fill="#F6C700" stroke="#222" stroke-width=".6"/>
+<circle cx="56" cy="72" r="15" fill="#2B2B2B"/><circle cx="56" cy="72" r="13.5" fill="#1C1C1C"/><circle cx="56" cy="72" r="8" fill="#C9CCD1"/><circle cx="56" cy="72" r="2.6" fill="#555"/>
+<line x1="56" y1="72" x2="63.0" y2="72.0" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="56" y1="72" x2="58.2" y2="78.7" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="56" y1="72" x2="50.3" y2="76.1" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="56" y1="72" x2="50.3" y2="67.9" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="56" y1="72" x2="58.2" y2="65.3" stroke="#8E929A" stroke-width="1.6"/>
+<circle cx="188" cy="72" r="15" fill="#2B2B2B"/><circle cx="188" cy="72" r="13.5" fill="#1C1C1C"/><circle cx="188" cy="72" r="8" fill="#C9CCD1"/><circle cx="188" cy="72" r="2.6" fill="#555"/>
+<line x1="188" y1="72" x2="195.0" y2="72.0" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="188" y1="72" x2="190.2" y2="78.7" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="188" y1="72" x2="182.3" y2="76.1" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="188" y1="72" x2="182.3" y2="67.9" stroke="#8E929A" stroke-width="1.6"/>
+<line x1="188" y1="72" x2="190.2" y2="65.3" stroke="#8E929A" stroke-width="1.6"/></g>
+
+</svg>
